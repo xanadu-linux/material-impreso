@@ -1,4 +1,16 @@
-commit 13a6a79ed1504fd848fcce99c8714fd08902da93 (HEAD, origin/master, origin/HEAD, master)
+commit c8a325aef4161d77242b43227d100ce9c3310267 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 3 14:37:00 2016 -0400
+
+    * se renombran archivos
+
+commit 8fe930ad3e2c0ff4d79912c1b4921aed377a744e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 3 14:35:43 2016 -0400
+
+    * changelog
+
+commit 13a6a79ed1504fd848fcce99c8714fd08902da93
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Nov 3 14:35:22 2016 -0400
 
