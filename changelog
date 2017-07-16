@@ -1,4 +1,16 @@
-commit c8a325aef4161d77242b43227d100ce9c3310267 (HEAD, origin/master, origin/HEAD, master)
+commit 7ca4eec710f80719891e59539d2027ea1f55a2b7 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jul 16 19:12:46 2017 -0400
+
+    * se agrega la licencia
+
+commit 170fa8332674fe7da2082f7c12bfe2237bbf1d3b (tag: v1.0)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 3 14:37:14 2016 -0400
+
+    * changelog
+
+commit c8a325aef4161d77242b43227d100ce9c3310267
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Nov 3 14:37:00 2016 -0400
 
