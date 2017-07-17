@@ -1,4 +1,16 @@
-commit 7ca4eec710f80719891e59539d2027ea1f55a2b7 (HEAD, origin/master, origin/HEAD, master)
+commit c7ad46ca11d11b531351aad72c1ad0506d457d1d (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 17 18:16:53 2017 -0400
+
+    * se agrega el pinguino recortable
+
+commit 4cac0ef96afa5bffd7674ff31d7c2e013c2ff752
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jul 16 19:13:00 2017 -0400
+
+    * changelog
+
+commit 7ca4eec710f80719891e59539d2027ea1f55a2b7
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jul 16 19:12:46 2017 -0400
 
