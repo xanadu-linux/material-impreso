@@ -1,4 +1,16 @@
-commit c7ad46ca11d11b531351aad72c1ad0506d457d1d (HEAD, origin/master, origin/HEAD, master)
+commit 06f5641f15f67c2a5450500eb1b6f4ef92dbe53e (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Jul 21 21:49:47 2017 -0400
+
+    * se agrega otro tux
+
+commit ef2964c55fe0ecaa3af15f4e65e0183e1368acc5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 17 18:17:16 2017 -0400
+
+    * changelog
+
+commit c7ad46ca11d11b531351aad72c1ad0506d457d1d
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Jul 17 18:16:53 2017 -0400
 
